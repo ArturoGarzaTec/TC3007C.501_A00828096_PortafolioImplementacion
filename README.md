@@ -22,10 +22,10 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 
 - *Deep Learning*
   - *SMA0401C*
-    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/DeepLearning/Modelo_Estadistico.pdf**
+    - **Evidencia 01: Implementación de un modelo de Deep Learning** Favor de revisar el archivo **Final/DeepLearning/ImplementacionIndividual_DeepLearning.pdf**
 - *NLP*
   - *SMA0402C*
-    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/NLP/ImplementacionTecnica_ML.ipynb**
+    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/NLP/ChatGPT/main.py**
 - *Estadística Avanzada*
   - *SMA0101C*
     - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/Estadistica/ImplementacionTecnica_ML.ipynb**
