@@ -32,7 +32,7 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 
 ## Cambios solicitados y respuestas
 
-A continuación, se incluye una lista de la ubicación de los problemas que plantearon los responsables de la revisión durante la fase de comentarios.
+A continuación, se incluye una lista de la ubicación de los problemas solucionados que plantearon los responsables de la revisión durante la fase de comentarios.
 
 - *Deep Learning*
   - *SMA0401C*
