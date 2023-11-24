@@ -25,7 +25,7 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
     - **Evidencia 01: Implementación de un modelo de Deep Learning** Favor de revisar el archivo **Final/DeepLearning/ImplementacionIndividual_DeepLearning.pdf**
 - *NLP*
   - *SMA0402C*
-    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/NLP/ChatGPT/main.py**
+    - **Evidencia 01: ChatGPT API's** Favor de revisar el archivo **Final/NLP/ChatGPT/NLP_A00828096_ArturoGarzaCampuzano.py**
 - *Estadística Avanzada*
   - *SMA0101C*
     - **Actividad 04: Regresión Poisson** Favor de revisar el archivo **Final/Estadistica/Actividad04/Regresion_Poisson.pdf**
