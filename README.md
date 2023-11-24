@@ -22,18 +22,20 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 
 - *Deep Learning*
   - *SMA0401C*
-    - **Evidencia 01: Implementación de un modelo de Deep Learning** Favor de revisar el archivo **Final/DeepLearning/ImplementacionIndividual_DeepLearning.pdf**
+    - **Evidencia 01: Implementación de un modelo de Deep Learning** Favor de revisar el archivo **Retroalimentacion/DeepLearning/ImplementacionIndividual_DeepLearning.pdf**
 - *NLP*
   - *SMA0402C*
     - **Evidencia 01: ChatGPT API's** Favor de revisar los archivos:
-        - Aplicación: **Final/NLP/ChatGPT/NLP_A00828096_ArturoGarzaCampuzano.py**
-        - Reporte: **Final/NLP/ChatGPT/NLP_A00828096_ArturoGarzaCampuzano_Reporte.pdf**
+        - Aplicación: **Final/NLP/ChatGPT/Evidencia01/NLP_A00828096_ArturoGarzaCampuzano.py**
+        - Reporte: **Final/NLP/ChatGPT/Evidencia01/NLP_A00828096_ArturoGarzaCampuzano_Reporte.pdf**
 - *Estadística Avanzada*
   - *SMA0101C*
     - **Actividad 04: Regresión Poisson** Favor de revisar el archivo **Final/Estadistica/Actividad04/Regresion_Poisson.pdf**
     - **Actividad 05: Regresión logística** Favor de revisar el archivo **Final/Estadistica/Actividad05/Regresion_Logistica.pdf**
     - **Actividad 07: Introducción a series de tiempo** Favor de revisar el archivo **Final/Estadistica/Actividad07/Series_Estacionarias.pdf**
     - **Actividad 08: Series de tiempo no estacionarias** Favor de revisar el archivo **Final/Estadistica/Actividad08/Series_NoEstacionarias.pdf**
+- *Cloud Computing*
+  - **Evidencia 01: Cloud computing | Actividad 6 - Cloud migration** Favor de revisar el archivo **Final/CloudComputing/Evidencia01/CloudMigration_Equipo7.pdf**
 
 ## Cambios solicitados y respuestas
 
