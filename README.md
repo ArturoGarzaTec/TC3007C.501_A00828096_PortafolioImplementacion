@@ -28,19 +28,12 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
     - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/NLP/ChatGPT/main.py**
 - *Estadística Avanzada*
   - *SMA0101C*
-    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/Estadistica/ImplementacionTecnica_ML.ipynb**
+    - **Actividad 04: Regresión Poisson** Favor de revisar el archivo **Final/Estadistica/Actividad04/Regresion_Poisson.pdf**
+    - **Actividad 05: Regresión logística** Favor de revisar el archivo **Final/Estadistica/Actividad05/Regresion_Logistica.pdf**
+    - **Actividad 07: Introducción a series de tiempo** Favor de revisar el archivo **Final/Estadistica/Actividad07/Series_Estacionarias.pdf**
+    - **Actividad 08: Series de tiempo no estacionarias** Favor de revisar el archivo **Final/Estadistica/Actividad08/Series_NoEstacionarias.pdf**
 
 ## Cambios solicitados y respuestas
 
-A continuación, se incluye una lista de la ubicación de los problemas solucionados que plantearon los responsables de la revisión durante la fase de comentarios.
-
-- *Deep Learning*
-  - *SMA0401C*
-    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/DeepLearning/ReporteCambios_DeepLearning.pdf**
-- *NLP*
-  - *SMA0402C*
-    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/NLP/ReporteCambios_NLP.pdf**
-- *Estadística Avanzada*
-  - *SMA0101C*
-    - **Evidencia ##: nombreEvidencia** Favor de revisar el archivo **Retroalimentacion/Estadistica/ReporteCambios_Estadistica.pdf**
+No se solicitaron cambios en las actividades realizadas.
 
