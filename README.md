@@ -22,7 +22,7 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 
 - *Deep Learning*
   - *SMA0401C*
-    - **Evidencia 01: Implementación de un modelo de Deep Learning** Favor de revisar el archivo **Final/DeepLearning/ImplementacionIndividual_DeepLearning.pdf**
+    - **Evidencia 01: Implementación de un modelo de Deep Learning** Favor de revisar el archivo **Retroalimentacion/DeepLearning/ImplementacionIndividual_DeepLearning.pdf**
 - *NLP*
   - *SMA0402C*
     - **Evidencia 01: ChatGPT API's** Favor de revisar los archivos:
