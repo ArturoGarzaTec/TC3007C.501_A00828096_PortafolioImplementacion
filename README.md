@@ -34,6 +34,8 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
     - **Actividad 05: Regresión logística** Favor de revisar el archivo **Final/Estadistica/Actividad05/Regresion_Logistica.pdf**
     - **Actividad 07: Introducción a series de tiempo** Favor de revisar el archivo **Final/Estadistica/Actividad07/Series_Estacionarias.pdf**
     - **Actividad 08: Series de tiempo no estacionarias** Favor de revisar el archivo **Final/Estadistica/Actividad08/Series_NoEstacionarias.pdf**
+- *Cloud Computing*
+  - **Evidencia 01: Cloud computing | Actividad 6 - Cloud migration** Favor de revisar el archivo **Final/CloudComputing/Evidencia01/CloudMigration_Equipo7.pdf**
 
 ## Cambios solicitados y respuestas
 
